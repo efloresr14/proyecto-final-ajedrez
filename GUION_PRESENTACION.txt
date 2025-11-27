@@ -1,0 +1,14 @@
+Guion para la presentación (5-7 minutos)
+
+1. Saludo y presentación (20s)
+   - "Buenos días/tardes, mi nombre es Emily Maryan Flores Rojas..."
+2. Motivación (30s)
+   - Breve por qué del proyecto.
+3. Objetivos (30s)
+4. Diseño y bibliotecas (40s)
+   - Explicar ncurses y la modularización.
+5. Demo (2 min)
+   - Ejecutar ./bin/ajedrez_ncurses
+   - Mostrar movimientos: e2e4, g8f6, e1g1 (enroque), avanzar peón hasta promoción y jugar e7e8Q.
+6. Resultados y conclusiones (40s)
+7. Trabajo futuro y preguntas (40s)
